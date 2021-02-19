@@ -32,7 +32,7 @@ under the License.
 	<name>Flink : Formats : Avro confluent registry</name>
 
 	<properties>
-		<kafka.version>2.4.1</kafka.version>
+		<kafka.version>2.5.1</kafka.version>
 		<confluent.version>5.5.2</confluent.version>
 	</properties>
 
